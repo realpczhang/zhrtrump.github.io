@@ -9,4 +9,6 @@
 ### 我的联系方式
   QQ 3456668715/ EMAIL BarronTrump@qq.com
   Twitter realPCZhang
+  ###友情链接：<a href="http://trump.bbs.125.la">Trump论坛</a>
+  </br></br></br>
 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1263061790'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1263061790%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script>
