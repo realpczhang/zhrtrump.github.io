@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zhrtrump/zhrtrump.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+## Welcome to ZHR TRUMP
+ 
+其实就是我的博客个人网站，因为没钱买不起域名，买不起服务器，我就把我的网站放在一台美国网站github的第222台主机上。
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
