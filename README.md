@@ -6,7 +6,9 @@
 杭高Hg 杭二He 长河CH4 杭四H2S  你们还不知道吗
 ### 秘密通道
  秘密通道:比特币模式正在建设中。施工单位:特朗普集团，投诉电话:+1 666 6666
- 
+### 我的联系方式
+  QQ 3456668715/ EMAIL BarronTrump@qq.com
+  Twitter realPCZhang
 ```markdown
 Syntax highlighted code block
 
